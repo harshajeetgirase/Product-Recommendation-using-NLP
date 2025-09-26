@@ -7,7 +7,7 @@ from src.exception import CustomException
 import sys
 
 # Import your DataIngestion class
-from component.data_ingestion import DataIngestion
+from src.component.data_ingestion import DataIngestion
 
 
 def train_model(output_dir="artifacts", input_path="artifacts/cleaned_data.csv"):

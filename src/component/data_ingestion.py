@@ -29,3 +29,4 @@ class DataIngestion:
 #     input_path = Path.home() / "Desktop" / "00Recomm" / "Data" / "Major.csv"
 #     data_ingestion = DataIngestion(input_path=input_path)
 #     df = data_ingestion.load_data()
+#     print("Yes")

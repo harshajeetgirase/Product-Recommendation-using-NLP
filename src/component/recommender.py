@@ -19,11 +19,13 @@ def recommendor_input(df=None, cosine_sim=None, brand="", category="", product="
                 cosine_sim = pickle.load(f)
 
         if not product:
+            logging.warning("No product name provided to recommender_input.")
             return []
 
         # Match product name (partial match allowed)
         matched_products = [p for p in df['clean_name'].values if product.lower() in p.lower()]
         if not matched_products:
+            logging.info(f"No matching product found for input: {product}")
             return []
 
         # Take first matched product
@@ -70,6 +72,9 @@ def recommendor_input(df=None, cosine_sim=None, brand="", category="", product="
             # Stop when enough unique recommendations are collected
             if len(recommendations) >= top_n:
                 break
+
+        if not recommendations:
+            logging.info(f"No recommendations generated for product: {product}")
 
         return recommendations
 

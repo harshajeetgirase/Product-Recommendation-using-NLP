@@ -1,0 +1,26 @@
+2025-09-26 14:24:25,226 - INFO - Logger initialized successfully.
+2025-09-26 14:30:33,265 - INFO - Logger initialized successfully.
+2025-09-26 14:30:58,389 - INFO - Division by zero error occurred.
+2025-09-26 14:31:54,603 - INFO - Loading data from C:\Users\admin\Desktop\00Recomm\Data\Major.csv
+2025-09-26 14:31:54,925 - INFO - Raw data saved at artifacts/raw.csv with shape (6066, 9)
+2025-09-26 14:40:07,948 - INFO - Loading data from C:\Users\admin\Desktop\00Recomm\Data\Major.csv
+2025-09-26 14:40:08,282 - INFO - Raw data saved at artifacts/raw.csv with shape (6066, 9)
+2025-09-26 14:40:34,070 - INFO - Loading data from C:\Users\admin\Desktop\00Recomm\Data\Major.csv
+2025-09-26 14:40:34,394 - INFO - Raw data saved at artifacts/raw.csv with shape (6066, 9)
+2025-09-26 14:40:52,303 - INFO - Loading data from C:\Users\admin\Desktop\00Recomm\Data\Major.csv
+2025-09-26 14:40:52,694 - INFO - Raw data saved at artifacts/raw.csv with shape (6066, 9)
+2025-09-26 14:42:33,124 - INFO - Loading data from C:\Users\admin\Desktop\00Recomm\Data\Major.csv
+2025-09-26 14:42:33,481 - INFO - Raw data saved at artifacts/raw.csv with shape (6066, 9)
+2025-09-26 14:42:59,706 - INFO - Loading data from C:\Users\admin\Desktop\00Recomm\Data\Major.csv
+2025-09-26 14:43:00,006 - INFO - Raw data saved at artifacts/raw.csv with shape (6066, 9)
+2025-09-26 14:43:04,855 - INFO - Loading data from C:\Users\admin\Desktop\00Recomm\Data\Major.csv
+2025-09-26 14:43:05,146 - INFO - Raw data saved at artifacts/raw.csv with shape (6066, 9)
+2025-09-26 14:43:06,878 - INFO - Loading data from C:\Users\admin\Desktop\00Recomm\Data\Major.csv
+2025-09-26 14:43:07,201 - INFO - Raw data saved at artifacts/raw.csv with shape (6066, 9)
+2025-09-26 14:43:28,919 - INFO - Loading data from C:\Users\admin\Desktop\00Recomm\Data\Major.csv
+2025-09-26 14:43:29,267 - INFO - Raw data saved at artifacts/raw.csv with shape (6066, 9)
+2025-09-26 14:47:39,295 - INFO - Starting model training...
+2025-09-26 14:47:39,295 - INFO - Loading data from artifacts/cleaned_data.csv
+2025-09-26 14:47:39,756 - INFO - Raw data saved at artifacts/raw.csv with shape (6066, 10)
+2025-09-26 14:47:41,177 - INFO - Model training complete. Artifacts saved in 'artifacts'.
+2025-09-26 14:49:19,426 - INFO - No matching product found for input: Hpppppppppp
