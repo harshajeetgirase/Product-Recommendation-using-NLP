@@ -1,0 +1,53 @@
+2025-09-16 10:55:43,878 - INFO - \u2705 Loaded cleaned data with 6066 records.
+2025-09-16 10:55:44,061 - INFO - \u2705 Loaded cosine similarity matrix.
+2025-09-16 10:55:46,084 - INFO - \u2705 Loaded TF-IDF vectorizer.
+2025-09-16 10:56:20,417 - INFO - \u2705 Product found: motorola g96 5g pantone greener pasture 128 gb
+2025-09-16 10:56:20,427 - INFO - \U0001f50e Top 5 recommendations for: motorola g96 5g pantone greener pasture 128 gb
+2025-09-16 10:56:20,428 - INFO - - MOTOROLA G96 5G (Pantone Greener Pastures, 256 GB) | MOTOROLA | Mobile | Discount: 19999 | Original: 22999
+2025-09-16 10:56:20,428 - INFO - - MOTOROLA G96 5G (Pantone Ashleigh Blue, 128 GB) | MOTOROLA | Mobile | Discount: 17999 | Original: 20999
+2025-09-16 10:56:20,428 - INFO - - MOTOROLA G96 5G (Pantone Ashleigh Blue, 256 GB) | MOTOROLA | Mobile | Discount: 19999 | Original: 22999
+2025-09-16 10:56:20,428 - INFO - - MOTOROLA G96 5G (Pantone Dresden Blue, 256 GB) | MOTOROLA | Mobile | Discount: 19999 | Original: 22999
+2025-09-16 10:56:20,428 - INFO - - MOTOROLA G96 5G (Pantone Cattleya Orchid, 256 GB) | MOTOROLA | Mobile | Discount: 19999 | Original: 22999
+2025-09-16 10:59:33,123 - INFO - \u2705 Loaded cleaned data with 6066 records.
+2025-09-16 10:59:33,318 - INFO - \u2705 Loaded cosine similarity matrix.
+2025-09-16 10:59:35,423 - INFO - \u2705 Loaded TF-IDF vectorizer.
+2025-09-16 11:00:54,521 - WARNING - No products found under Brand='motorolo'.
+2025-09-16 12:02:20,095 - INFO - Top 10 recommendations generated for 'Lenovo V14'.
+2025-09-16 12:02:35,972 - INFO - Top 10 recommendations generated for 'Lenovo V14'.
+2025-09-16 12:02:41,398 - WARNING - No products found matching 'Lenovo V14' in the selected filters.
+2025-09-16 12:02:48,305 - INFO - Top 10 recommendations generated for 'Hp'.
+2025-09-16 12:19:35,668 - ERROR - Error in recommendor_input: ('Lengths must match to compare', (6066,), (371,))
+2025-09-16 12:20:17,707 - ERROR - Error in recommendor_input: ('Lengths must match to compare', (6066,), (10,))
+2025-09-16 12:20:19,221 - ERROR - Error in recommendor_input: ('Lengths must match to compare', (6066,), (10,))
+2025-09-16 12:20:21,603 - ERROR - Error in recommendor_input: ('Lengths must match to compare', (6066,), (10,))
+2025-09-16 12:20:41,533 - ERROR - Error in recommendor_input: ('Lengths must match to compare', (6066,), (371,))
+2025-09-16 12:20:42,853 - ERROR - Error in recommendor_input: ('Lengths must match to compare', (6066,), (371,))
+2025-09-16 16:18:23,307 - ERROR - Error in recommendor_input: cannot unpack non-iterable numpy.float64 object
+2025-09-16 16:18:27,176 - ERROR - Error in recommendor_input: cannot unpack non-iterable numpy.float64 object
+2025-09-16 16:18:39,771 - ERROR - Error in recommendor_input: cannot unpack non-iterable numpy.float64 object
+2025-09-16 16:25:29,254 - INFO - No product match found for 'F41'.
+2025-09-16 16:25:35,039 - INFO - No product match found for 'F'.
+2025-09-16 16:25:40,856 - INFO - No product match found for 'Mobile'.
+2025-09-16 16:25:49,542 - INFO - No product match found for 'Samsung'.
+2025-09-16 16:25:50,819 - INFO - No product match found for 'Samsung'.
+2025-09-16 16:27:15,767 - INFO - No product match found for 'Samsung F16'.
+2025-09-16 16:27:37,345 - INFO - No product match found for 'Samsung F16'.
+2025-09-16 16:27:38,620 - INFO - No product match found for 'Samsung F16'.
+2025-09-16 16:27:47,100 - INFO - No product match found for 'Samsung F16'.
+2025-09-16 16:27:48,181 - INFO - No product match found for 'Samsung F16'.
+2025-09-16 16:28:25,888 - INFO - No product match found for 'Samsung F16'.
+2025-09-16 16:28:27,044 - INFO - No product match found for 'Samsung F16'.
+2025-09-16 16:28:27,455 - INFO - No product match found for 'Samsung F16'.
+2025-09-16 16:28:27,754 - INFO - No product match found for 'Samsung F16'.
+2025-09-16 16:28:40,762 - INFO - No product match found for 'Moto'.
+2025-09-16 16:28:42,528 - INFO - No product match found for 'Moto'.
+2025-09-16 16:29:08,294 - INFO - No product match found for 'Hp'.
+2025-09-16 16:32:39,449 - INFO - No product match found for 'Samsung F14'.
+2025-09-16 16:34:28,410 - INFO - No product match found for 'Samsung'.
+2025-09-16 16:34:29,927 - INFO - No product match found for 'Samsung'.
+2025-09-16 16:35:54,274 - INFO - No product match found for 'Samsung'.
+2025-09-16 16:36:11,971 - INFO - No product match found for 'Vivo'.
+2025-09-16 16:36:13,528 - INFO - No product match found for 'Vivo'.
+2025-09-16 16:36:24,239 - INFO - No product match found for 'Vivo'.
+2025-09-16 16:36:40,038 - INFO - No product match found for 'Vivo v130'.
+2025-09-16 16:36:41,349 - INFO - No product match found for 'Vivo v130'.

@@ -1,0 +1,7 @@
+2025-09-15 18:36:41,588 - INFO - Logger initialized successfully.
+2025-09-15 18:45:24,889 - INFO - Logger initialized successfully.
+2025-09-15 21:14:55,824 - INFO - Loading data from C:\Users\admin\Desktop\00Recomm\Data\Major.csv
+2025-09-15 21:14:56,239 - INFO - Raw data saved at artifacts/raw/raw.csv with shape (6066, 9)
+2025-09-15 22:39:26,293 - INFO - Loading data from C:\Users\admin\Desktop\00Recomm\Data\Major.csv
+2025-09-15 22:39:26,490 - INFO - Raw data saved at artifacts/raw/raw.csv with shape (6066, 9)
+2025-09-15 23:11:09,120 - ERROR - Error in recommendor_input: 'str' object has no attribute 'copy'

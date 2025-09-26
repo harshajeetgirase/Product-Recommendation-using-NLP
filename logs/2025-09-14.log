@@ -1,0 +1,4 @@
+2025-09-14 07:26:57,778 - INFO - Loading data from C:\Users\admin\Data\Major.csv
+2025-09-14 07:29:28,926 - INFO - Loading data from C:\Users\admin\00Recomm\Data\Major.csv
+2025-09-14 07:30:24,255 - INFO - Loading data from C:\Users\admin\Desktop\00Recomm\Data\Major.csv
+2025-09-14 07:30:24,667 - INFO - Raw data saved at artifacts/raw/raw.csv with shape (6066, 9)
